@@ -17,7 +17,7 @@ class Hardware
         return cpuinfo
 
     getRevision: ->
-        infos = getCpuinfo()
+        infos = @getCpuinfo()
 
         if infos.revision?
             infos.revision
