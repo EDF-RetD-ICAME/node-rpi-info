@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "coffee-script": "^1.10.0",
-    "cpuinfo": "^0.1.0"
+    "cpuinfo": "^0.1.0",
+    "lodash": "^4.11.1",
+    "underscore.string": "^3.3.4"
   }
 }
