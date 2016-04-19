@@ -1,2 +1,3 @@
 require('coffee-script/register');
-require('./lib/rpi-version');
+
+module.exports = require('./lib/rpi');
