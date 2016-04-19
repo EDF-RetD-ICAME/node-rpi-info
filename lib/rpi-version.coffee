@@ -14,5 +14,12 @@ cpuinfo = ->
 
     return cpuinfo
 
-info = cpuinfo()
-console.log info
+revision = ->
+    infos = cpuinfo()
+
+    if infos.revision?
+        infos.revision
+    else
+        null
+
+console.log revision()
