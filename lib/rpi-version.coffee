@@ -14,4 +14,5 @@ cpuinfo = ->
 
     return cpuinfo
 
-info = cpuinfo
+info = cpuinfo()
+console.log info
