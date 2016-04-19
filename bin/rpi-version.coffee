@@ -6,7 +6,10 @@ util = require 'util'
 
 out = (field, value) ->
     if program.silent
-        output = value.toString()
+        if value? and value.toString?
+            value = value.toString()
+
+        output = value
     else
         value = util.inspect(value, {depth: 4, colors: true})
         output = "#{field.grey} : #{value}"
