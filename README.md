@@ -35,6 +35,18 @@ Options:
   -s, --silent            Display raw information only
 ```
 
+By default :
+```
+rpi-version
+```
+
+render something like :
+```
+RaspberryPi 3 Model B released Q1 2016
+Revision : 'a02082'
+All revisions availables for this kind of device : [ 'a02082', 'a22082' ]
+```
+
 Programmatically
 ----------------
 
