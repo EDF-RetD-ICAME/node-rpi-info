@@ -39,7 +39,7 @@ all = ->
     console.log output
 
     out "Revision", rpi.getRevision()
-    out "All revisions for this RaspberryPi", rpi.getAllRevisions()
+    out "All revisions availables for this kind of device", rpi.getAllRevisions()
 
 
 program
