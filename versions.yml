@@ -3,108 +3,108 @@ rpiBeta:
     model: B
     releaseDate: 2012-01-01
     revisions:
-        - 0002
+        - "0002"
 rpiBeta2:
     version: 0
     model: B
     releaseDate: 2012-07-01
     revisions:
-        - 0003
+        - "0003"
 rpiBeta3:
     version: 0
     model: B
     releaseDate: 2012-07-01
     revisions:
-        - 0004
+        - "0004"
 rpiBeta4:
     version: 0
     model: B
     releaseDate: 2012-10-01
     revisions:
-        - 0005
+        - "0005"
 rpiBeta5:
     version: 0
     model: B
     releaseDate: 2012-10-01
     revisions:
-        - 0006
+        - "0006"
 rpiA1:
     version: 1
     model: A
     releaseDate: 2013-01-01
     revisions:
-        - 0007
+        - "0007"
 rpiA2:
     version: 1
     model: A
     releaseDate: 2013-01-01
     revisions:
-        - 0008
+        - "0008"
 rpiA3:
     version: 1
     model: A
     releaseDate: 2013-01-01
     revisions:
-        - 0009
+        - "0009"
 rpiB1:
     version: 1
     model: B
     releaseDate: 2012-10-01
     revisions:
-        - 000d
+        - "000d"
 rpiB2:
     version: 1
     model: B
     releaseDate: 2012-10-01
     revisions:
-        - 000e
+        - "000e"
 rpiB3:
     version: 1
     model: B
     releaseDate: 2012-10-01
     revisions:
-        - 000f
+        - "000f"
 rpiBPlus:
     version: 1
     model: B+
     releaseDate: 2014-07-01
     revisions:
-        - 0010
+        - "0010"
 ComputeModule:
     version: 1
     model: Compute Module
     releaseDate: 2014-04-01
     revisions:
-        - 0011
+        - "0011"
 rpiAPlus:
     version: 1
     model: A+
     releaseDate: 2014-10-01
     revisions:
-        - 0012
+        - "0012"
 rpiBPlus2:
     version: 1
     model: B+
     releaseDate: 2015-01-01
     revisions:
-        - 0013
+        - "0013"
 rpi2:
     version: 2
     model: B
     releaseDate: 2015-01-01
     revisions:
-        - a01041
-        - a21041
+        - "a01041"
+        - "a21041"
 rpiZero:
     version: null
     model: Zero
     releaseDate: 2015-10-01
     revisions:
-        - 900092
+        - "900092"
 rpi3:
     version: 3
     model: B
     releaseDate: 2016-01-01
     revisions:
-        - a02082
-        - a22082
+        - "a02082"
+        - "a22082"
