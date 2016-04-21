@@ -1,7 +1,10 @@
 RPI Version
 ===========
 
-Rpis Versions are taken from :
+This library is written in coffee-script and allow to display information about the current RaspberryPi.
+If no revision is provided, /proc/cpuinfo is parsed to retrieve the revision.
+
+Rpis infos are taken from :
 
 * http://www.raspberrypi-spy.co.uk/2012/09/checking-your-raspberry-pi-board-version/
 * http://elinux.org/RPi_HardwareHistory
