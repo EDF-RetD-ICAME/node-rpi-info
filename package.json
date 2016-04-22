@@ -19,7 +19,15 @@
     "url": "https://github.com/chok/node-rpi-info/issues"
   },
   "homepage": "https://github.com/chok/node-rpi-info#readme",
-  "license": "ISC",
+  "keywords": [
+    "rpi",
+    "version",
+    "revision",
+    "RaspberryPi",
+    "raspberry",
+    "model",
+    "releaseDate"
+  ],
   "dependencies": {
     "coffee-script": "^1.10.0",
     "colors": "^1.1.2",
