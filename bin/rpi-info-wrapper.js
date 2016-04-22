@@ -1,4 +1,4 @@
 #!/usr/bin/env node
 
 require('coffee-script/register');
-require('./rpi-version');
+require('./rpi-info');

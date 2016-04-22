@@ -1,4 +1,4 @@
-RPI Version
+RPI Info
 ===========
 
 This library is written in coffee-script and allow to display information about the current RaspberryPi.
@@ -12,16 +12,16 @@ Rpis infos are taken from :
 Installation
 ------------
 
-```rpi-version``` can be installed globally and used at command line or programmatically.
+```rpi-info``` can be installed globally and used at command line or programmatically.
 
 ```
-[sudo] npm install [-g] rpi-version
+[sudo] npm install [-g] rpi-info
 ```
 
 Usage
 -----
 ```
-Usage: rpi-version [options] [command]
+Usage: rpi-info [options] [command]
 
 Commands:
 
@@ -41,7 +41,7 @@ Options:
 
 By default :
 ```
-rpi-version
+rpi-info
 ```
 
 render something like :
@@ -55,7 +55,7 @@ Programmatically
 ----------------
 
 ```javascript
-var RPI = require('rpi-version');
+var RPI = require('rpi-info');
 var rpi = new RPI(revision); // revision is optionnal - if not present, /proc/cpuinfo is parsed
 
 rpi.getRevision();

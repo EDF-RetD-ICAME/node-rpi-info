@@ -1,6 +1,6 @@
 fs = require 'fs'
 s = require "underscore.string"
-debug = require('debug') 'rpi-version:hardware'
+debug = require('debug') 'rpi-info:hardware'
 
 class Hardware
     getCpuinfo: ->

@@ -1,15 +1,24 @@
 {
-  "name": "rpi-version",
+  "name": "rpi-info",
   "version": "1.0.0",
-  "description": "",
+  "description": "Allow to recognize and display information for the current RaspberryPi",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "rpi-version": "./bin/rpi-version-wrapper.js"
+    "rpi-info": "./bin/rpi-info-wrapper.js"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chok/node-rpi-info.git"
+  },
+  "author": "Maxime Picaud <maxime.picaud@harchibald.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chok/node-rpi-info/issues"
+  },
+  "homepage": "https://github.com/chok/node-rpi-info#readme",
   "license": "ISC",
   "dependencies": {
     "coffee-script": "^1.10.0",

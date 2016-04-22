@@ -3,7 +3,7 @@ yaml = require 'js-yaml'
 Hardware = require './hardware'
 moment = require 'moment'
 _ = require 'lodash'
-debug = require('debug') 'rpi-version:rpi'
+debug = require('debug') 'rpi-info:rpi'
 
 class RPI
     hardware: null

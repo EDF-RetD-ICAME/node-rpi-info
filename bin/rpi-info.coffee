@@ -3,7 +3,7 @@ RPI = require '..'
 program = require 'commander'
 colors = require 'colors'
 util = require 'util'
-debug = require('debug') 'rpi-version:bin'
+debug = require('debug') 'rpi-info:bin'
 moment = require 'moment'
 argv = require('yargs').argv
 
