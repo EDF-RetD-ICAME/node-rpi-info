@@ -1,6 +1,6 @@
 {
   "name": "rpi-info",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Allow to recognize and display information for the current RaspberryPi",
   "main": "index.js",
   "scripts": {
@@ -11,15 +11,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chok/node-rpi-info.git"
+    "url": "https://github.com/EDF-RetD-ICAME/node-rpi-info.git"
   },
   "author": "Maxime Picaud <maxime.picaud@harchibald.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/chok/node-rpi-info/issues"
   },
-  "homepage": "https://github.com/chok/node-rpi-info#readme",
+  "homepage": "https://github.com/EDF-RetD-ICAME/node-rpi-info#readme",
   "keywords": [
+    "EDF Lab",
     "rpi",
     "version",
     "revision",
