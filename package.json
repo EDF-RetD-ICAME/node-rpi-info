@@ -1,6 +1,6 @@
 {
   "name": "rpi-info",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Allow to recognize and display information for the current RaspberryPi",
   "main": "index.js",
   "scripts": {
