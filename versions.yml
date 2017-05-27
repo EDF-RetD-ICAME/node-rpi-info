@@ -76,6 +76,7 @@ ComputeModule:
     releaseDate: 2014-04-01
     revisions:
         - "0011"
+        - "0014"
 rpiAPlus:
     version: 1
     model: A+
@@ -88,6 +89,18 @@ rpiBPlus2:
     releaseDate: 2015-01-01
     revisions:
         - "0013"
+rpiAPlus2:
+    version: 1
+    model: A+
+    releaseDate: null
+    revisions:
+        - "0015"
+rpi2Unknown:
+    version: 2
+    model: B
+    releaseDate: null
+    revisions:
+        - "a01040"
 rpi2:
     version: 2
     model: B
@@ -95,12 +108,49 @@ rpi2:
     revisions:
         - "a01041"
         - "a21041"
+rpi2BCM2837:
+    version: 2
+    model: B
+    releaseDate: 2016-07-01
+    revisions:
+        - "a01041"
+        - "a22042"
+rpiAPlus3:
+    version: 1
+    model: A+
+    releaseDate: 2016-07-01
+    revisions:
+        - "900021"
+rpiBPlus3:
+    version: 1
+    model: B+
+    releaseDate: 2016-04-01
+    revisions:
+        - "900032"
 rpiZero:
     version: null
     model: Zero
     releaseDate: 2015-10-01
     revisions:
         - "900092"
+rpiZero2:
+    version: null
+    model: Zero
+    releaseDate: 2016-04-01
+    revisions:
+        - "900093"
+rpiZero3:
+    version: null
+    model: Zero
+    releaseDate: 2016-10-01
+    revisions:
+        - "920093"
+rpiZeroW:
+    version: null
+    model: Zero W
+    releaseDate: 2017-01-01
+    revisions:
+        - "9000c1"
 rpi3:
     version: 3
     model: B
@@ -108,3 +158,15 @@ rpi3:
     revisions:
         - "a02082"
         - "a22082"
+ComputeModule3:
+    version: 3
+    model: Compute Module
+    releaseDate: 2017-01-01
+    revisions:
+        - "a020a0"
+rpi32:
+    version: 3
+    model: B
+    releaseDate: 2016-10-01
+    revisions:
+        - "a32082"
