@@ -170,3 +170,9 @@ rpi32:
     releaseDate: 2016-10-01
     revisions:
         - "a32082"
+rpi3Plus:
+    version: 3
+    model: B+
+    releaseDate: 2018-03-01
+    revisions:
+        - "a020d3"

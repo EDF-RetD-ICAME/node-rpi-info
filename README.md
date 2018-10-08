@@ -1,7 +1,7 @@
 RPI Info
 ===========
 
-Last update: 2017-05-27
+Last update: 2017-10-08
 
 This library is written in coffee-script and allow to display information about the current RaspberryPi.
 If no revision is provided, /proc/cpuinfo is parsed to retrieve the revision.
