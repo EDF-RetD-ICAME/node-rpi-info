@@ -176,3 +176,27 @@ rpi3BPlus:
     releaseDate: 2018-03-01
     revisions:
         - "a020d3"
+rpi3APlus:
+    version: 3
+    model: A+
+    releaseDate: 2018-10-01
+    revisions:
+        - "9020e0"
+rpi41GB:
+    version: 4
+    model: B
+    releaseDate: 2018-04-01
+    revisions:
+        - "a03111"
+rpi42GB:
+    version: 4
+    model: B
+    releaseDate: 2018-04-01
+    revisions:
+        - "b03111"
+rpi44GB:
+    version: 4
+    model: B
+    releaseDate: 2018-04-01
+    revisions:
+        - "c03111"

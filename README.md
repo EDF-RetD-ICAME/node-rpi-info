@@ -1,7 +1,10 @@
 RPI Info
 ===========
 
-Last update: 2017-10-08
+Last update: 2019-07-18
+
+[![npm version](https://img.shields.io/npm/v/rpi-info.svg?style=flat)](https://yarnpkg.com/en/package/rpi-info)
+[![license](https://img.shields.io/npm/l/rpi-info.svg?style=flat)](https://opensource.org/licenses/MIT)
 
 This library is written in coffee-script and allow to display information about the current RaspberryPi.
 If no revision is provided, /proc/cpuinfo is parsed to retrieve the revision.
